@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/musical-spork-robofriends/static/css/main.11efa7c3.chunk.css",
+    "main.js": "/musical-spork-robofriends/static/js/main.ed283da4.chunk.js",
+    "main.js.map": "/musical-spork-robofriends/static/js/main.ed283da4.chunk.js.map",
+    "runtime-main.js": "/musical-spork-robofriends/static/js/runtime-main.92ad9189.js",
+    "runtime-main.js.map": "/musical-spork-robofriends/static/js/runtime-main.92ad9189.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/musical-spork-robofriends/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.843b3040.chunk.js": "/musical-spork-robofriends/static/js/2.843b3040.chunk.js",
+    "static/js/2.843b3040.chunk.js.map": "/musical-spork-robofriends/static/js/2.843b3040.chunk.js.map",
+    "index.html": "/musical-spork-robofriends/index.html",
+    "precache-manifest.f1bb3bceb38fa31dfde602ecb69ff505.js": "/musical-spork-robofriends/precache-manifest.f1bb3bceb38fa31dfde602ecb69ff505.js",
+    "service-worker.js": "/musical-spork-robofriends/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/musical-spork-robofriends/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.11efa7c3.chunk.css.map": "/musical-spork-robofriends/static/css/main.11efa7c3.chunk.css.map",
+    "static/js/2.843b3040.chunk.js.LICENSE.txt": "/musical-spork-robofriends/static/js/2.843b3040.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/musical-spork-robofriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92ad9189.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.843b3040.chunk.js",
+    "static/css/main.11efa7c3.chunk.css",
+    "static/js/main.ed283da4.chunk.js"
+  ]
+}
